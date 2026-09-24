@@ -2,7 +2,7 @@ import { useEffect, useState } from "react";
 import axios from "axios";
 import "./App.css";
 
-const API_URL = "https://task-management-app-3y24.onrender.com";
+const API_URL = "https://task-management-app-3yz4.onrender.com";
 
 function App() {
   const [isRegister, setIsRegister] = useState(false);
